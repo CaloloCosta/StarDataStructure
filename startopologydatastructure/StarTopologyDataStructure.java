@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package startopologydatastructure;
 
 /**
- *
- * @author carlos
+ * @author carlos da costa
+ * @github github.com/calolocosta
  */
 import java.util.ArrayList;
 import java.util.Scanner;
